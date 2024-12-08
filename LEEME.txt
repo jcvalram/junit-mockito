@@ -1,0 +1,9 @@
+Ejemplos del curso JUnit y Mockito
+
+- JUnit5
+- Mockito
+- IntellijIdea
+- Maven
+
+
+Al ser proyectos de Intellij, no existe workspace como tal.
